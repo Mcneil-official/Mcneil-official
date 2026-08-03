@@ -1,4 +1,4 @@
-Hello, I'm Mcneil
+# Hello, I'm Mcneil
 I'm currently focused on improving my development skills by building projects with different programming languages and frameworks. Along the way, I'm learning web and mobile application development while exploring a future career in AI. I'm particularly interested in artificial intelligence and computer systems, and I enjoy understanding not just how to build software, but how the technologies behind it work. I believe the best way to grow as a developer is through hands-on experience, continuous learning, and taking on projects that push me beyond my comfort zone.
 
 
